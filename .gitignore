@@ -1,0 +1,11 @@
+# General
+node_modules/
+.build/
+/.DS_Store*
+
+# IDE
+.idea/
+
+# Mix
+mix-manifest.json
+hot
