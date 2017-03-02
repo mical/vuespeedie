@@ -4,8 +4,6 @@ VueSpeedie is a simple [Vue.js](https://github.com/vuejs/vue) powered boilerplat
 
 ![VueSpeedie Screenshot](.github/vuespeedie.png)
 
-> Mockup provided by [Pixeden](http://www.pixeden.com/psd-mock-up-templates/the-new-macbook-psd-mockup)
-
 ## Features
 
 - [Vue](https://github.com/vuejs/vue) - Clean & powerful reactive library
@@ -31,3 +29,12 @@ yarn run dev
 npm i
 npm run dev
 ```
+
+### Documentation
+
+[TBD]
+
+### Follow up
+
+If you enjoy reading my code, please consider to take a look at my [blog](https://blog.slashkeys.com) 😁
+I'm also quite active on [Twitter](https://twitter.com/slashmodev) 😊
