@@ -2,7 +2,7 @@
 
 VueSpeedie is a simple [Vue.js](https://github.com/vuejs/vue) powered boilerplate template for building a Single Page Application. You can simply clone the repo, hop over to the [after-clone](#after-clone) section & start builing something huge. 🚀
 
-![VueSpeedie Screenshot](.github/vuespeedie.png)
+![VueSpeedie Screenshot](/assets/img/vuespeedie.png)
 
 ## Features
 
